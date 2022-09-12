@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"FIX: translation below the screen"}
+{"version":"1.0.2", "notes":"FIX: translation by the server that was blocking the start of the game "}
