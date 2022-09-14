@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"FIX: translation by the server that was blocking the start of the game "}
+{"version":"1.0.3", "notes":"FIX: Fixed issue with tables crashing and having to restart the game"}
