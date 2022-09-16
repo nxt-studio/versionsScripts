@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"FIX: Fixed issue with tables crashing and having to restart the game"}
+{"version":"1.0.4", "notes":"FEAT: Added config_prompts file for you to assign your own action buttons; I added the DEBUG option in config_shared, just put it as TRUE"}
