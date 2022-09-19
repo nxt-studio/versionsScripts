@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"TWEAK: I added the game type in the translation that was missing"}
+{"version":"1.0.6", "notes":"FIX: Removed the prints that were out of Debug mode; FEAT: I added the snippet of the code to deal the cards on config_server.lua"}
