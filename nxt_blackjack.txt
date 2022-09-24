@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"FIX: Removed the prints that were out of Debug mode; FEAT: I added the snippet of the code to deal the cards on config_server.lua"}
+{"version":"1.0.7", "notes":"FIX: issue with Radar disappearing and not showing up anymore"}
