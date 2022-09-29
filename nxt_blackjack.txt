@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"FIX: issue with Radar disappearing and not showing up anymore"}
+{"version":"1.0.8", "notes":"FIX: images of cards that did not appear"}
