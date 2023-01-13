@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"FIX: images of cards that did not appear"}
+{"version":"1.0.9", "notes":"TWEAK: Improved the logic of distributing cards to be more random \n FEAT: I added a variable to choose the amount of decks in the dealer's hand, this is to allow a better variety of cards."}
