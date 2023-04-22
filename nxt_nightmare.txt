@@ -1,1 +1,1 @@
-{"version":"0.2.2", "notes":"FIX: delete normal npc to spawn zombie"}
+{"version":"0.2.3", "notes":"FIX: VORPCore starting normally now \n FIX: locale/locale.lua file not escrowed"}
