@@ -1,1 +1,1 @@
-{"version":"0.2.3", "notes":"FIX: VORPCore starting normally now \n FIX: locale/locale.lua file not escrowed"}
+{"version":"0.2.5", "notes":"FIX: SCRIPT ERROR: Execution of native 00000000526fee31 in script host failed: Tried to access invalid entity: 141585 \n FEAT: Added Ghost train that spawns at 00 hours in random locations defined in the config \n FEAT: Added zombie sounds to make it more realistic and immersive"}
