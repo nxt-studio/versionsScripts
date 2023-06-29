@@ -1,1 +1,1 @@
-{"version":"0.2.6", "notes":"FIX: SEND_NUI_MESSAGE: limiting sound emitter"}
+{"version":"0.2.7", "notes":"FIX[server/events.lua]: it was deleting the vehicles even if they were in the allowlist table"}
