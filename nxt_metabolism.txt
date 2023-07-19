@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"FIX: VORP initialization"}
+{"version":"1.0.2", "notes":"FEAT: I added the config to add consumable items in the consumable.lua file"}
