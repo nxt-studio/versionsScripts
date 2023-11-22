@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"TWEAK: Improved the logic of distributing cards to be more random \n FEAT: I added a variable to choose the amount of decks in the dealer's hand, this is to allow a better variety of cards. \n  FIX: glow error"}
+{"version":"1.5.2", "notes":"FIX: problem to initialize game"}
