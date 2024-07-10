@@ -1,1 +1,3 @@
-{"version":"0.2.7", "notes":"FIX[server/events.lua]: it was deleting the vehicles even if they were in the allowlist table"}
+{"version":"0.2.8", "notes":"fix[server/events.lua]: FIX: SCRIPT ERROR when try spawn zombie \n
+fix[client/undead_manager.lua]: Forcing stopped zombie attack player again \n
+tweak[config/config_server.lua]: replace framework to FRAMEWORK wrong var name blocking spawn items"}
