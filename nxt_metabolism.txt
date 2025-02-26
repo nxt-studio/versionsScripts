@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"FEAT: I added the config to add consumable items in the consumable.lua file"}
+{"version":"1.0.3", "notes":"fix[consumable.lua]: Add: new functions list example \n fix[client/consumable.lua]: Add new function with new animations"}
