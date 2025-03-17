@@ -1,1 +1,1 @@
-{"version":"1.5.4", "notes":"FIX: update interface images \n FIX: checking if you actually have money to start betting"}
+{"version":"1.5.5", "notes":"FIX: GetMoney function is Missing"}
